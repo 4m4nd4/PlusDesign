@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/PlusDesign/static/css/main.ef0cddc8.css",
+    "main.js": "/PlusDesign/static/js/main.8cd951a7.js",
+    "static/js/787.1f11dfe9.chunk.js": "/PlusDesign/static/js/787.1f11dfe9.chunk.js",
+    "static/media/project2.png": "/PlusDesign/static/media/project2.c1bd6471a34783407e35.png",
+    "static/media/color-sharp.png": "/PlusDesign/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/PlusDesign/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/meheader.png": "/PlusDesign/static/media/meheader.ccc52f37c7df850ef525.png",
+    "static/media/FiraCode-Bold.ttf": "/PlusDesign/static/media/FiraCode-Bold.160ed1ac4e45a09b43b5.ttf",
+    "static/media/FiraCode-Regular.ttf": "/PlusDesign/static/media/FiraCode-Regular.fc45da4c3e5b90c232a2.ttf",
+    "static/media/FiraCode-Medium.ttf": "/PlusDesign/static/media/FiraCode-Medium.a97c2faa159e7881c89a.ttf",
+    "static/media/project1.png": "/PlusDesign/static/media/project1.72d9851703d2820fd72b.png",
+    "static/media/banner-bg.png": "/PlusDesign/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/project3.png": "/PlusDesign/static/media/project3.9566cd206c056fc806aa.png",
+    "static/media/mecontact.png": "/PlusDesign/static/media/mecontact.5593463f1c1493d08941.png",
+    "static/media/footer-bg.png": "/PlusDesign/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/merecommend.png": "/PlusDesign/static/media/merecommend.ab7d3601febcffa1b9cd.png",
+    "static/media/MyPortfolioLOGO.png": "/PlusDesign/static/media/MyPortfolioLOGO.c45e38a28d3790c738fb.png",
+    "static/media/revicons.eot": "/PlusDesign/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/PlusDesign/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/PlusDesign/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/PlusDesign/index.html",
+    "main.ef0cddc8.css.map": "/PlusDesign/static/css/main.ef0cddc8.css.map",
+    "main.8cd951a7.js.map": "/PlusDesign/static/js/main.8cd951a7.js.map",
+    "787.1f11dfe9.chunk.js.map": "/PlusDesign/static/js/787.1f11dfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef0cddc8.css",
+    "static/js/main.8cd951a7.js"
+  ]
+}
